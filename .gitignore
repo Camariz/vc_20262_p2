@@ -1,0 +1,33 @@
+# Dataset original e arquivos baixados
+data/
+WaterMeters/
+*.zip
+
+# Recortes gerados
+digits/
+
+# Checkpoints e pesos dos modelos
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Credenciais
+kaggle.json
+access_token
+.env
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
