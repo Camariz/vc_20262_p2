@@ -80,5 +80,5 @@ Declaro estar ciente de que ferramentas de inteligência artificial foram utiliz
 
 Reconheço a responsabilidade pela compreensão, revisão e correção do conteúdo submetido, incluindo os trechos desenvolvidos com auxílio de IA, bem como a necessidade de apresentar os resultados e as limitações do experimento de forma transparente.
 
-**Aluno(a):** [Nome completo]  
+**Aluno(a):** Carolline de Araújo Mariz 
 **Data:** 15/10/2026
